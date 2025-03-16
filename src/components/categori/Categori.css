@@ -1,0 +1,47 @@
+
+
+.choose_cards {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 50px 0;
+  }
+  .choose_card {
+    width: 250px;
+    height: 205px;
+ 
+    border-radius: 10px;
+    padding: 20px 20px;
+    transition: all 0.3s ease-in-out;
+    cursor: pointer;
+    background-color: #c3a53781;
+  }
+  
+  .imgs_choose {
+    width: 50px;
+    height: 50px;
+    background-color: #fbf6ea;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .choose_card h2 {
+    padding: 15px 0;
+  }
+  
+  .choose_card p {
+    line-height: 1.3;
+  }
+  .choose_card:hover {
+    background-color: #f8c025;
+    margin-top: -10px;
+    box-shadow: 5px 15px 7px 5px rgba(178, 176, 176, 0.41);
+  }
+
+  .choose_cards a{
+    text-decoration: none; 
+    color: inherit; 
+    display: block;
+  }

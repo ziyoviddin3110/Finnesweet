@@ -1,0 +1,55 @@
+nav {
+    background-color: #232536;
+    padding: 40px 0;
+  
+}
+
+
+
+.logo {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    
+}
+
+.logo img {
+    cursor: pointer;
+}
+
+.links_log {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+.links_log ul {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+.links_log ul li a {
+    text-decoration: none;
+    color: white;
+    font-size: 25px;
+    cursor: pointer;
+    transition: all 0.5s ease-in-out;
+}
+
+
+
+
+.links_log ul li a.active {
+    color: red;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.links_log ul li a:hover {
+    color: red;
+   
+}
+

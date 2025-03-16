@@ -1,0 +1,104 @@
+.contact-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 2rem;
+    margin: 100px 0;
+  }
+  
+  .contact-title {
+    text-transform: uppercase;
+    font-size: 1rem;
+    font-weight: bold;
+    text-align: center;
+  }
+  
+  .contact-heading {
+    font-size: 2rem;
+    font-weight: bold;
+    margin-top: 0.5rem;
+    text-align: center;
+  }
+  
+  .contact-description {
+    text-align: center;
+    color: gray;
+    max-width: 600px;
+    margin-top: 0.5rem;
+  }
+  
+  .contact-info {
+    background: #5b2c91;
+    color: white;
+    padding: 50px 50px;
+    border-radius: 8px;
+    margin-top: 1.5rem;
+    display: flex;
+    gap: 100px;
+    width: 100%;
+    max-width: 700px;
+    
+  }
+  
+  .contact-info h5 {
+    text-transform: uppercase;
+    font-size: 0.9rem;
+    color: #ffffff92;
+    padding: 10px 0;
+  }
+  .contact-info .con_haus p{
+   background-color: #ffffff92;
+    width: 150px;
+    height: 2px;
+  }
+  
+  .contact-bold {
+    font-weight: bold;
+    margin-top: 1.5rem;
+    line-height: 1.5;
+  }
+  
+  .contact-number {
+    font-size: 1.2rem;
+  }
+  
+  .contact-small {
+    font-size: 1.1rem;
+    padding: 8px 0;
+    color: #a9a8a7;
+  }
+  
+  .contact-form {
+    margin-top: 1.5rem;
+    width: 100%;
+    max-width: 700px;
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+  }
+  
+  .contact-input {
+    border: 1px solid #ddd;
+    padding: 0.8rem;
+    border-radius: 6px;
+    width: 100%;
+  }
+  
+  .contact-textarea {
+    height: 120px;
+  }
+  
+  .contact-button {
+    background: #ffcc00;
+    color: black;
+    font-weight: bold;
+    padding: 1rem;
+    border-radius: 6px;
+    cursor: pointer;
+    border: none;
+  }
+  
+  .contact-button:hover {
+    background: #e6b800;
+  }
+  

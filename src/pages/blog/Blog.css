@@ -1,0 +1,103 @@
+
+
+
+.hero_blog{
+    background-color: #F4F0F8;
+    height: 90vh;
+}
+
+.herobg_cards{
+    display: flex;
+    align-items: start;
+    justify-content: space-between;
+    padding-top: 100px;
+}
+.hero_p{
+    margin-bottom: 20px;
+}
+.herobg_card{
+    width: 550px;
+}
+
+.herobg_card h1{
+font-size: 35px;
+padding: 20px 0;
+}
+
+.herobg_card p{
+    font-size: 18px;
+    padding: 13px 0;
+    line-height: 1.3;
+    color: #6D6E76;
+}
+
+.All_post{
+    margin-top: 90px;
+}
+.All_post h1{
+    font-size: 45px;
+}
+
+.allpost_card{
+    display: flex;
+    align-items: center;
+    gap: 50px;
+    margin: 40px 0;
+}
+.allpost_card img{
+    width: 450px;
+    height: 280px;
+}
+.starup{
+    width: 500px;
+}
+.starup h3{
+    color: #592EA9;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    letter-spacing: 5px;
+}
+
+.starup h1{
+    font-size: 30px;
+    padding: 20px 0;
+}
+.starup p{
+    line-height: 1.5;
+}
+
+.prev_next{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+    gap: 30px;
+}
+
+.prev, .next{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    cursor: pointer;
+}
+.next:hover{
+    color: red;
+ }
+ .prev:hover{
+    color: red;
+ }
+
+.prev_next span{
+    font-size: 20px;
+    font-weight: bold;
+}
+
+
+.categotiy h1{
+    font-size: 30px;
+    font-weight: bold;
+    margin-top: 150px;
+}
+
+
+.join_sec{
+    margin-bottom: 100px;
+}

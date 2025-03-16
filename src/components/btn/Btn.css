@@ -1,0 +1,18 @@
+
+
+
+
+button{
+    padding: 10px 25px;
+    background-color: orange;
+    font-size: 16px;
+    border: none;
+    border-radius: 10px;
+   
+    transition: all 0.6s ease-in-out;
+    cursor: pointer;
+}
+button:hover {
+    background-color: red;
+    color: white;
+  }
