@@ -38,7 +38,7 @@ function Home({ data }) {
               <div className="feature_card">
                 <img src="public/imgs/feature.png" alt="" />
                 <p>
-                  By <span>John Doe</span> l May 23, 202
+                  Byning <span>Johnbek Doe</span> l May 23, 202
                 </p>
                 <h1>
                   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
