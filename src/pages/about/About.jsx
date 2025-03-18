@@ -24,7 +24,7 @@ function About() {
       </div>
       <div className="container">
         <div className="over_imgs">
-          <img src="/public/imgs/Overview.png" alt="" />
+          <img src="/imgs/Overview.png" alt="" />
         </div>
       </div>
       <main>
@@ -76,12 +76,12 @@ function About() {
                   </p>
                 </div>
                 <div className="seam_imgCard">
-                  <img src="/public/imgs/Know more image.png" alt="" />
+                  <img src="/imgs/Know more image.png" alt="" />
                 </div>
               </div>
               <div className="seam_card">
                 <div className="seam_imgCard">
-                  <img src="/public/imgs/Image.png" alt="" />
+                  <img src="/imgs/Image.png" alt="" />
                 </div>
                 <div className="seam_textcard">
                   <h1>Our team of creatives</h1>
@@ -106,7 +106,7 @@ function About() {
           <div className="container">
             <div className="ett_cards">
               <div className="ett_card">
-                <img src="/public/imgs/list1.png" alt="" />
+                <img src="/imgs/list1.png" alt="" />
                 <h2>Floyd Miles</h2>
                 <p>Content Writer @Company</p>
                 <div className="list_icons">
@@ -117,7 +117,7 @@ function About() {
                 </div>
               </div>
               <div className="ett_card">
-                <img src="/public/imgs/list2.png" alt="" />
+                <img src="/imgs/list2.png" alt="" />
                 <h2>Dianne Russell</h2>
                 <p>Content Writer @Company</p>
                 <div className="list_icons">
@@ -128,7 +128,7 @@ function About() {
                 </div>
               </div>
               <div className="ett_card">
-                <img src="/public/imgs/list3.png" alt="" />
+                <img src="/imgs/list3.png" alt="" />
                 <h2>Jenny Wilson</h2>
                 <p>Content Writer @Company</p>
                 <div className="list_icons">
@@ -139,7 +139,7 @@ function About() {
                 </div>
               </div>
               <div className="ett_card">
-                <img src="/public/imgs/list4.png" alt="" />
+                <img src="/imgs/list4.png" alt="" />
                 <h2>Leslie Alexander</h2>
                 <p>Content Writer @Company</p>
                 <div className="list_icons">
@@ -150,7 +150,7 @@ function About() {
                 </div>
               </div>
               <div className="ett_card">
-                <img src="/public/imgs/list5.png" alt="" />
+                <img src="/imgs/list5.png" alt="" />
                 <h2>Guy Hawkins</h2>
                 <p>Content Writer @Company</p>
                 <div className="list_icons">
@@ -161,7 +161,7 @@ function About() {
                 </div>
               </div>
               <div className="ett_card">
-                <img src="/public/imgs/list6.png" alt="" />
+                <img src="/imgs/list6.png" alt="" />
                 <h2>Eleanor Pena</h2>
                 <p>Content Writer @Company</p>
                 <div className="list_icons">
@@ -172,7 +172,7 @@ function About() {
                 </div>
               </div>
               <div className="ett_card">
-                <img src="/public/imgs/list7.png" alt="" />
+                <img src="/imgs/list7.png" alt="" />
                 <h2>Robert Fox</h2>
                 <p>Content Writer @Company</p>
                 <div className="list_icons">
@@ -183,7 +183,7 @@ function About() {
                 </div>
               </div>
               <div className="ett_card">
-                <img src="/public/imgs/list8.png" alt="" />
+                <img src="/imgs/list8.png" alt="" />
                 <h2>Jacob Jones</h2>
                 <p>Content Writer @Company</p>
                 <div className="list_icons">

@@ -38,7 +38,7 @@ function Home({ data }) {
               <div className="feature_card">
                 <img src="/imgs/feature.png" alt="" />
                 <p>
-                  By <span>Johnbek Doe</span> l May 23, 202
+                  By <span>John Doe</span> l May 23, 202
                 </p>
                 <h1>
                   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
@@ -134,7 +134,7 @@ function Home({ data }) {
             <Categori data={data} />
             <div className="choose_block">
               <div className="box_choose">
-                <img src="/public/imgs/imgs111.png" alt="" />
+                <img src="/imgs/imgs111.png" alt="" />
               </div>
               <div className="box_choose1">
                 <h3>Why we started</h3>
@@ -157,7 +157,7 @@ function Home({ data }) {
             <h1>List of Authors</h1>
             <div className="set_cards">
               <div className="set_card">
-                <img src="/public/imgs/list1.png" alt="" />
+                <img src="/imgs/list1.png" alt="" />
                 <h2>Floyd Miles</h2>
                 <p>Content Writer @Company</p>
                 <div className="list_icons">
@@ -168,7 +168,7 @@ function Home({ data }) {
                 </div>
               </div>
               <div className="set_card">
-                <img src="/public/imgs/list2.png" alt="" />
+                <img src="/imgs/list2.png" alt="" />
                 <h2>Dianne Russell</h2>
                 <p>Content Writer @Company</p>
                 <div className="list_icons">
@@ -179,7 +179,7 @@ function Home({ data }) {
                 </div>
               </div>
               <div className="set_card">
-                <img src="/public/imgs/list3.png" alt="" />
+                <img src="/imgs/list3.png" alt="" />
                 <h2>Jenny Wilson</h2>
                 <p>Content Writer @Company</p>
                 <div className="list_icons">
@@ -190,7 +190,7 @@ function Home({ data }) {
                 </div>
               </div>
               <div className="set_card">
-                <img src="/public/imgs/list4.png" alt="" />
+                <img src="/imgs/list4.png" alt="" />
                 <h2>Leslie Alexander</h2>
                 <p>Content Writer @Company</p>
                 <div className="list_icons">
@@ -202,12 +202,12 @@ function Home({ data }) {
               </div>
             </div>
             <div className="wear1_set">
-              <img src="/public/imgs/Featured in.png" alt="" />
-              <img src="/public/imgs/Logo 1.png" alt="" />
-              <img src="/public/imgs/Logo 2.png" alt="" />
-              <img src="/public/imgs/Logo 3.png" alt="" />
-              <img src="/public/imgs/Logo 4.png" alt="" />
-              <img src="/public/imgs/Logo 5.png" alt="" />
+              <img src="/imgs/Featured in.png" alt="" />
+              <img src="/imgs/Logo 1.png" alt="" />
+              <img src="/imgs/Logo 2.png" alt="" />
+              <img src="/imgs/Logo 3.png" alt="" />
+              <img src="/imgs/Logo 4.png" alt="" />
+              <img src="/imgs/Logo 5.png" alt="" />
             </div>
             <div className="testimon_cards">
               <div className="testimon_card">
@@ -229,7 +229,7 @@ function Home({ data }) {
                   dolore magna aliqua.
                 </h3>
                 <div className="porfolio_icons">
-                  <img src="/public/imgs/Profile.png" alt="" />
+                  <img src="/imgs/Profile.png" alt="" />
                   <div className="left_rigthIcons">
                     <i className="fa-solid fa-arrow-left-long"></i>
                     <i className="fa-solid fa-arrow-right-long"></i>

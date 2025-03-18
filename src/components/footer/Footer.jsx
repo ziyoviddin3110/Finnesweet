@@ -14,7 +14,7 @@ function Footer() {
         <div className="foot_logo">
          
             <NavLink to="/" onClick={scrollToTop}>
-              <img src="/public/imgs/Logo.png" alt="" />
+              <img src="/imgs/Logo.png" alt="" />
             </NavLink>
      
 

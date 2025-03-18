@@ -18,7 +18,7 @@ function Blog({data}) {
         <Btn/>
         </div>
         <div className="heroImg_card">
-          <img src="/public/imgs/herobg_bkog.png" alt="" />
+          <img src="/imgs/herobg_bkog.png" alt="" />
         </div>
       </div>
     </div>
@@ -30,7 +30,7 @@ function Blog({data}) {
         <br /><hr />
         <div className="allpost_cards">
           <div className="allpost_card">
-          <img src="/public/imgs/blogImg1.png" alt="" />
+          <img src="/imgs/blogImg1.png" alt="" />
           <div className="starup">
             <h3>Startup</h3>
             <h1>Design tips for designers that cover everything you nee</h1>
@@ -38,7 +38,7 @@ function Blog({data}) {
           </div>
           </div>
           <div className="allpost_card">
-          <img src="/public/imgs/blogImg2.png" alt="" />
+          <img src="/imgs/blogImg2.png" alt="" />
           <div className="starup">
            <h3>BUSINESS</h3>
            <h1>How to build rapport with your web design clients</h1>
@@ -46,7 +46,7 @@ function Blog({data}) {
           </div>
           </div>
           <div className="allpost_card">
-          <img src="/public/imgs/blogImg3.png" alt="" />
+          <img src="/imgs/blogImg3.png" alt="" />
           <div className="starup">
             <h3>Startup</h3>
             <h1>Logo design trends to avoid in 2022</h1>
@@ -54,7 +54,7 @@ function Blog({data}) {
           </div>
           </div>
           <div className="allpost_card">
-          <img src="/public/imgs/blogImg4.png" alt="" />
+          <img src="/imgs/blogImg4.png" alt="" />
           <div className="starup">
           <h3>TECHNOLOGY</h3>
           <h1>8 Figma design systems you can download for free today</h1>
@@ -62,7 +62,7 @@ function Blog({data}) {
           </div>
           </div>
           <div className="allpost_card">
-          <img src="/public/imgs/blogImg1.png" alt="" />
+          <img src="/imgs/blogImg1.png" alt="" />
           <div className="starup">
             <h3>Startup</h3>
             <h1>Design tips for designers that cover everything you nee</h1>

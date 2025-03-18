@@ -30,7 +30,7 @@ function Categoriss({ data }) {
         <div className="categoriss_cards">
           <div className="categori_blockk">
             <div className="caregoriss_card">
-              <img src="/public/imgs/blogImg1.png" alt="" />
+              <img src="/imgs/blogImg1.png" alt="" />
               <div className="text_cate">
                 <h3>Business</h3>
                 <h1>Top 6 free website mockup tools 2022</h1>
@@ -42,7 +42,7 @@ function Categoriss({ data }) {
               </div>
             </div>
             <div className="caregoriss_card">
-              <img src="/public/imgs/blogImg1.png" alt="" />
+              <img src="/imgs/blogImg1.png" alt="" />
               <div className="text_cate">
                 <h3>Business</h3>
                 <h1>Top 6 free website mockup tools 2022</h1>
@@ -54,7 +54,7 @@ function Categoriss({ data }) {
               </div>
             </div>
             <div className="caregoriss_card">
-              <img src="/public/imgs/blogImg1.png" alt="" />
+              <img src="/imgs/blogImg1.png" alt="" />
               <div className="text_cate">
                 <h3>Business</h3>
                 <h1>Top 6 free website mockup tools 2022</h1>
@@ -66,7 +66,7 @@ function Categoriss({ data }) {
               </div>
             </div>
             <div className="caregoriss_card">
-              <img src="/public/imgs/blogImg1.png" alt="" />
+              <img src="/imgs/blogImg1.png" alt="" />
               <div className="text_cate">
                 <h3>Business</h3>
                 <h1>Top 6 free website mockup tools 2022</h1>
@@ -82,25 +82,25 @@ function Categoriss({ data }) {
             <h1>Categories</h1>
             <div className="starus_img">
               <div className="imgs">
-                <img src="/public/imgs/Icon (1).svg" alt="" />
+                <img src="/imgs/Icon (1).svg" alt="" />
               </div>
               <h2>Startup</h2>
             </div>
             <div className="starus_img">
               <div className="imgs">
-                <img src="/public/imgs/Icon.svg" alt="" />
+                <img src="/imgs/Icon.svg" alt="" />
               </div>
               <h2>Business</h2>
             </div>
             <div className="starus_img">
               <div className="imgs">
-                <img src="/public/imgs/economy (1).png" alt="" />
+                <img src="/imgs/economy (1).png" alt="" />
               </div>
               <h2>Economy</h2>
             </div>
             <div className="starus_img">
               <div className="imgs">
-                <img src="/public/imgs/cyborg.svg" alt="" />
+                <img src="/imgs/cyborg.svg" alt="" />
               </div>
               <h2>Technology</h2>
             </div>
