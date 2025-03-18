@@ -36,9 +36,9 @@ function Home({ data }) {
             </div>
             <div className="feature_cards">
               <div className="feature_card">
-                <img src="public/imgs/feature.png" alt="" />
+                <img src="/imgs/feature.png" alt="" />
                 <p>
-                  Byning <span>Johnbek Doe</span> l May 23, 202
+                  By <span>Johnbek Doe</span> l May 23, 202
                 </p>
                 <h1>
                   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
