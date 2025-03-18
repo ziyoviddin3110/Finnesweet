@@ -36,7 +36,7 @@ function Home({ data }) {
             </div>
             <div className="feature_cards">
               <div className="feature_card">
-                <img src="/public/imgs/feature.png" alt="" />
+                <img src="public/imgs/feature.png" alt="" />
                 <p>
                   By <span>John Doe</span> l May 23, 202
                 </p>
@@ -210,28 +210,37 @@ function Home({ data }) {
               <img src="/public/imgs/Logo 5.png" alt="" />
             </div>
             <div className="testimon_cards">
-                <div className="testimon_card">
-                    <h3>TESTIMONIALs</h3>
-                    <h2>What people say <br /> about our blog</h2>
-                    <p>Lorem ipsum dolor sit amet, consectetur <br />adipiscing elit, sed do eiusmod tempor.</p>
+              <div className="testimon_card">
+                <h3>TESTIMONIALs</h3>
+                <h2>
+                  What people say <br /> about our blog
+                </h2>
+                <p>
+                  Lorem ipsum dolor sit amet, consectetur <br />
+                  adipiscing elit, sed do eiusmod tempor.
+                </p>
+              </div>
+              <span></span>
+              <div className="testimon_card1">
+                <h3>
+                  Lorem ipsum dolor sit amet,
+                  <br /> consectetur adipiscing elit, sed do <br /> eiusmod
+                  tempor incididunt ut labore et <br />
+                  dolore magna aliqua.
+                </h3>
+                <div className="porfolio_icons">
+                  <img src="/public/imgs/Profile.png" alt="" />
+                  <div className="left_rigthIcons">
+                    <i className="fa-solid fa-arrow-left-long"></i>
+                    <i className="fa-solid fa-arrow-right-long"></i>
+                  </div>
                 </div>
-                <span></span>
-                <div className="testimon_card1">
-                    <h3>Lorem ipsum dolor sit amet,<br /> consectetur adipiscing elit, sed do <br /> eiusmod tempor incididunt ut labore et <br />dolore magna aliqua.</h3>
-                    <div className="porfolio_icons">
-                        <img src="/public/imgs/Profile.png" alt="" />
-                        <div className="left_rigthIcons">
-                        <i className="fa-solid fa-arrow-left-long"></i>
-                        <i className="fa-solid fa-arrow-right-long"></i>
-                        </div>
-                    </div>
-                </div>
+              </div>
             </div>
-           <Join/>
+            <Join />
           </div>
         </section>
       </main>
-      
     </>
   );
 }
